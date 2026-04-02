@@ -10,6 +10,6 @@ Frontend developer with experience building dynamic web applications using **Rea
 💼 **Codemind EC**: CEO and collaborative team member in developing internal projects (private).  
 🔑 **Authentication modules**: Built custom authentication flows in React/Next.js.  
 🖥️ **API Development**: Created a PHP 8.0 API using Laravel to feed an intermediate database.  
-💻 **ERP Support**: Worked as a developer providing support and improvements for the Dobra ERP system.
+💻 **ERP Support**: Worked as a developer Visual Fox Pro 9.0 providing support and improvements for the Dobra ERP system.
 
 I enjoy learning by doing, experimenting with new tools, and building interfaces that are both functional and visually appealing.
