@@ -13,21 +13,3 @@ Frontend developer with experience building dynamic web applications using **Rea
 💻 **ERP Support**: Worked as a developer providing support and improvements for the Dobra ERP system.
 
 I enjoy learning by doing, experimenting with new tools, and building interfaces that are both functional and visually appealing.
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-¡Hola! Soy Erick Alvear 👋
-
-Desarrollador frontend con experiencia construyendo aplicaciones web dinámicas usando **React**, **Next.js**, **Astro**, **HTML**, **CSS** y **Tailwind CSS**. Trabajo en conjunto con equipos para entregar interfaces limpias, responsivas y soluciones escalables. Actualmente estoy ampliando mi stack para incluir **C#** en desarrollo backend.
-
-## 🚀 Proyectos Públicos
-📝 **BackOffice**: Mi proyecto personal tipo CMS para mostrar mis habilidades y experimentar con componentes de administración.  
-
-## 🔒 Proyectos Privados / Colaborativos
-🛒 **Mariquita Food**: Parte del equipo que desarrolló esta plataforma de e-commerce.  
-💼 **Codemind EC**: CEO y miembro colaborativo en proyectos internos (privados).  
-🔑 **Módulos de autenticación**: Desarrollo de flujos de autenticación personalizados en React/Next.js.  
-🖥️ **Desarrollo de API**: Creación de una API en PHP 8.0 con Laravel para alimentar una base de datos intermedia.  
-💻 **Soporte ERP**: Trabajé como desarrollador brindando soporte y mejoras en el sistema ERP Dobra.
-
-Me gusta aprender haciendo, experimentar con nuevas herramientas y construir interfaces que sean funcionales y atractivas visualmente.
