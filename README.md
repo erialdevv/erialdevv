@@ -1,6 +1,6 @@
 Hi! I'm Erick Alvear 👋
 
-Frontend developer with experience building dynamic web applications using **React**, **Next.js**, **Astro**, **HTML**, **CSS**, and **Tailwind CSS**. I collaborate closely with teams to deliver clean, responsive interfaces and scalable solutions. Currently, I’m expanding my stack to include **C#** for backend development.
+Fullstack developer with experience building dynamic web applications using **React**, **Next.js**, **Astro**, **HTML**, **CSS**, and **Tailwind CSS**. I collaborate closely with teams to deliver clean, responsive interfaces and scalable solutions. Currently, I’m expanding my stack to include **C#** for backend development.
 
 ## 🚀 Public Projects
 📝 **BackOffice**: My personal CMS-like project to showcase my skills and experiment with admin components.  
