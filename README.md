@@ -3,7 +3,7 @@ Hi! I'm Erick Alvear 👋
 Fullstack developer with experience building dynamic web applications using **React**, **Next.js**, **Astro**, **HTML**, **CSS**, and **Tailwind CSS**. I collaborate closely with teams to deliver clean, responsive interfaces and scalable solutions. Currently, I’m expanding my stack to include **C#** for backend development.
 
 ## 🚀 Public Projects
-**BackOffice**: My personal CMS-like project to showcase my skills and experiment with admin components.  
+**Mudle**: My personal CMS-like project to showcase my skills and experiment with admin components.  
 
 ## 🔒 Private / Collaborative Projects
 **Mariquita Food**: Part of the team building this e-commerce platform.  
